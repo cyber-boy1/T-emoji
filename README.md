@@ -6,5 +6,5 @@
 # Install the tool
 git clone https://github.com/cyber-boy1/T-emoji
 # run
-cd T-emoji.py
-python T-emoji.py
+1. cd T-emoji.py
+2. python T-emoji.py
